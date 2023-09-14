@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  // height: 100vh;
+}
+main {
+  background-image: url("../image/pexel.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
